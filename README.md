@@ -1,24 +1,4 @@
-# smart-home-task
+# [Smart Home](https://vetusst.github.io/smart-home-task) inteface on Vue.js
+## Connection state is changed randomly every 5 sec. to show app reactivity.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[![image](https://user-images.githubusercontent.com/76970581/157124839-98b8b309-34d5-4627-ab32-4a0616287ea2.png)](https://vetusst.github.io/smart-home-task)
