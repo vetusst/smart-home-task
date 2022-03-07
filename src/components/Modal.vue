@@ -99,7 +99,7 @@ export default {
 
 .modal {
   pointer-events: auto;
-  width: 30%;
+  width: 25rem;
   background: #ffffff;
   box-shadow: 1px 1px 20px 1px #0000007c;
   overflow-x: auto;
