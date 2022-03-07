@@ -1,5 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-  base: '/smart-home-task/',
+  publicPath: process.env.NODE_ENV === "production" ? "/smart-home-task/" : "/",
   transpileDependencies: true
 })
